@@ -1,4 +1,4 @@
-# Ringerike Koder
+# [KodeKlubben Ringerike](http://www.kodeklubben-ringerike.no/) - [følg oss på facebook! :)](https://www.facebook.com/KodeklubbenRingerike/)
 Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned 
 [kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/kodesnutter)
 , [bilder av kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/bilder)
@@ -6,7 +6,7 @@ og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
 #### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKodeklubbenRingerike%2Fvideos%2F406211249952737%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
 
@@ -27,3 +27,5 @@ Link til Micro:BIT prosjekter: https://makecode.microbit.org/projects/toys
 Melke monster: https://makecode.microbit.org/projects/milky-monster
 
 Melke kartong robot: https://makecode.microbit.org/projects/milk-carton-robot
+
+[![Tromme Robot Ringerike](https://github.com/HaseebRana/RingerikeKoder/blob/master/bilder/tromme-robot.JPG?raw=true)](https://www.facebook.com/KodeklubbenRingerike/videos/vl.623197151460097/406211249952737/?type=1 "Tromme Robot Ringerike")

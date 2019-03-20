@@ -1,7 +1,10 @@
 # Ringerike Koder
-Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned kode filer og legge til filer/endringer 
+Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned 
+[kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/kodesnutter)
+, [bilder av kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/bilder)
+og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
-https://github.com/kkringerike
+#### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 
 
 

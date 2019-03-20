@@ -1,5 +1,7 @@
 # Ringerike Koder
-Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned kode filer og legge til filer/endringer (https://help.github.com/en/articles/fork-a-repo).
+Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned kode filer og legge til filer/endringer 
+
+(https://help.github.com/en/articles/fork-a-repo).
 
 
 

@@ -2,8 +2,9 @@
 Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned 
 [kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/kodesnutter)
 , [bilder av kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/bilder)
+og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
-[GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
+#### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 
 
 

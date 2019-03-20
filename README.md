@@ -6,7 +6,6 @@ og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
 #### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKodeklubbenRingerike%2Fvideos%2F406211249952737%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
 

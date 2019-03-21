@@ -26,9 +26,9 @@ Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
 
 ***
 
-For informasjon om hvordan en 180(SG90) servo fungerer: http://bit.ly/KKRS180
+For informasjon om hvordan en 180 (SG90) servo fungerer: http://bit.ly/KKRS180
 
-For info om 360(SG90R continous) servo: http://bit.ly/KKRS360
+For info om 360 (SG90R continous) servo: http://bit.ly/KKRS360
 
 ***
 

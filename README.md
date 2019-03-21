@@ -21,6 +21,7 @@ MonkaMakes servo board:
 
 * http://www.monkmakes.com/mb_servo/
 
+
 Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
 
 ***
@@ -29,7 +30,7 @@ For informasjon om hvordan en 180(SG90) servo fungerer: https://github.com/Hasee
 
 For info om 360(SG90R continous) servo: https://github.com/HaseebRana/RingerikeKoder/wiki/Hvordan-bruker-du-360%C2%B0-servo-(SG90R)-motor%3F
 
-
+***
 
 ## Prosjekter for inspirasjon
 Link til micro:bit prosjekter: https://makecode.microbit.org/projects/toys

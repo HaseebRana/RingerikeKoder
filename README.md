@@ -17,7 +17,7 @@ Micro:bit:
 Servo:lite:
 * https://www.kitronik.co.uk/blog/getting-started-servolite-board-microbit/
 
-MonkaMakes servo board:
+MonkMakes servo board:
 
 * http://www.monkmakes.com/mb_servo/
 

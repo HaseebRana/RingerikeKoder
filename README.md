@@ -1,8 +1,5 @@
 # [KodeKlubben Ringerike](http://www.kodeklubben-ringerike.no/) - [følg oss på facebook! :)](https://www.facebook.com/KodeklubbenRingerike/)
-Ett bibliotek hvor folk fra kodeklubben Ringerike kan laste ned 
-[kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/kodesnutter)
-, [bilder av kodesnutter](https://github.com/HaseebRana/RingerikeKoder/tree/master/bilder)
-og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
+Ett bibliotek hvor folk fra kodeklubben Ringerike kan lese, laste ned og følge tutorials fra [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
 #### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 

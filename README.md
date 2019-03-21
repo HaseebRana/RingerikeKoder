@@ -6,14 +6,24 @@ og lese [vår Wiki](https://github.com/HaseebRana/RingerikeKoder/wiki).
 
 #### [GitHub til KodeKlubben Ringerike](https://github.com/kkringerike)
 
+***
 
-Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
 
 
 Micro:bit: 
 1. https://microbit-micropython.readthedocs.io/en/latest/pin.html
 2. https://lancaster-university.github.io/microbit-docs/ubit/io/#api
 
+Servo:lite:
+* https://www.kitronik.co.uk/blog/getting-started-servolite-board-microbit/
+
+MonkaMakes servo board:
+
+* http://www.monkmakes.com/mb_servo/
+
+Servo Calibrator: https://makecode.microbit.org/projects/servo-calibrator
+
+***
 
 For informasjon om hvordan en 180(SG90) servo fungerer: https://github.com/HaseebRana/RingerikeKoder/wiki/Hvordan-bruker-du-180%C2%B0-servo-(SG90)-motor%3F
 

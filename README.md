@@ -27,4 +27,6 @@ Melke monster: https://makecode.microbit.org/projects/milky-monster
 
 Melke kartong robot: https://makecode.microbit.org/projects/milk-carton-robot
 
+### Video av Tromme Roboten! :) 
+
 [![Tromme Robot Ringerike](https://github.com/HaseebRana/RingerikeKoder/blob/master/bilder/tromme-robot.JPG?raw=true)](https://www.facebook.com/KodeklubbenRingerike/videos/vl.623197151460097/406211249952737/?type=1 "Tromme Robot Ringerike")
